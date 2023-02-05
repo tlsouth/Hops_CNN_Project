@@ -14,9 +14,9 @@ A Convolutional Neural Network (CNN) project was completed as part of my machine
 
 This project was developed, and intended to run, using Google Colab. Below are the directions for downloading the notebook and data set to run this code.
 <ol>
-  <li> Download the Hops_CNN.ipynb and Tomato_Images.zip files from this repository </li>
+  <li> Download the Hops_CNN.ipynb and Tomato_Images.zip files from this repository. </li>
   <li> Create a new folder on your local machine and move the Hops_CNN and Tomato_Images files into that folder. Unzip the Tomato_Images folder and delete the zipped copy. </li>
-  <li> Upload the folder containing the Hops_CNN and Tomato_Images files to your Google Drive </li>
-  <li> Once uploaded, navigate to the folder now in your Google Drive and open the Hops_CNN.ipynb using Google Colab </li>
-  <li> Follow the tutorial in the notebook for mounting the data to your drive and executing the code </li>
+  <li> Upload the folder containing the Hops_CNN and Tomato_Images files to your Google Drive. </li>
+  <li> Once uploaded, navigate to the folder now in your Google Drive and open the Hops_CNN.ipynb using Google Colab. </li>
+  <li> Follow the tutorial in the notebook for mounting the data to your drive and executing the code. </li>
 </ol>
