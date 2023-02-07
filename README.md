@@ -5,7 +5,7 @@ A Convolutional Neural Network (CNN) project was completed as part of my machine
 ## Repository Contents:
 
 * Hops_CNN.ipynb - Python notebook originally written in Google Colab containing the code and tutorial for this project
-* Tomato_images.zip - compressed folders containing three folders of tomato image data
+* Tomato_images.zip - compressed folder containing three folders of tomato image data
 * Poster_Hops_CNN.pdf - poster created for the project overview, support, and findings presented during the class
 * Abstract.md - abstract on overall project, aimed at applying model to images of hop plants
 * CNN_References.bib - contains references for articles and sources used in the Hops_CNN.ipynb notebook
